@@ -1,3 +1,8 @@
+# Version 3 (2019-11-20)
+
+## Chores
+* Added dummy.txt file ([3dc7fd](https://github.com/jackyef/changelog-generator/commit/3dc7fd360802cfaeaee803e01471ada7b2da8cc2))
+
 # Version 2 (2019-11-20)
 
 ## Features
