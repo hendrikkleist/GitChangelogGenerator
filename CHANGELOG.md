@@ -1,5 +1,3 @@
-# Version 4 (2019-11-20)
-
 # Version 3 (2019-11-20)
 
 ## Chores
